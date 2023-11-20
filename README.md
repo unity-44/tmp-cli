@@ -13,9 +13,9 @@ Create a new temporary file with customizable content.
 
 ### Flags
 
-| Flag | Description |
-|----------|----------|
-| -name | Name file and set location|
+| Flag | Short |Description |
+|----------|----------|----------|
+| -name |-n | Name file and set location|
 
 
 

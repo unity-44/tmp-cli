@@ -1,4 +1,4 @@
-module github.com/spf13/tmp-cli
+module github.com/unity-44/tmp-cli
 
 go 1.20
 
